@@ -1,0 +1,3 @@
+API_KEY = '-----'
+API_SECRET = '-----'
+TOKEN = '6835238502:AAFAwvHtMaWCn_iwLNPgglz5esRurFTTSfA'
